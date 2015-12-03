@@ -1,0 +1,30 @@
+{
+  "name": "opensource-p2p-server",
+  "version": "0.0.1",
+  "description": "We focus on re-using other open source codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TouTrix/opensource-p2p-server.git"
+  },
+  "keywords": [
+    "p2p",
+    "servers",
+    "node.js",
+    "javascript",
+    "cluster",
+    "cloud"
+  ],
+  "author": "TouTrix",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/TouTrix/opensource-p2p-server/issues"
+  },
+  "dependencies": {
+    "freedom": "~0.6.27",
+    "freedom-for-node": "~0.2.18"
+  }
+}
